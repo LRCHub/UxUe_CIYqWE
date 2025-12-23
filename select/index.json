@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジェラシス",
+  "base_artist": "Chinozo",
+  "createdAt": "2025-12-23T10:27:48.238453Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェラシス",
+      "artist": "Chinozo feat. 可不",
+      "has_synced": false,
+      "path": "select/pl_01_ジェラシス_Chinozo_feat._可不.txt"
+    }
+  ]
+}
